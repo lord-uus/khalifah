@@ -2,7 +2,6 @@ const path = require('path');
 
 module.exports = {
   siteName: 'Khalifah',
-  siteDescription: 'Khalifah yang perlu kita kenal',
   siteUrl: 'https://khalifah.xyz',
   icon: './src/ikon.png',
 

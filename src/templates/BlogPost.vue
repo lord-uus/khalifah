@@ -149,7 +149,12 @@ export default {
   metaInfo() {
     return {
       title: this.$page.blog.title,
-      description: this.$page.blog.excerpt,
+      meta: [
+        {
+          name: "description",
+          value: this.$page.blog.excerpt
+        }
+      ],
       bodyAttrs: {
         class: "bg-white"
       }
