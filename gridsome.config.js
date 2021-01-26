@@ -21,11 +21,11 @@ module.exports = {
             changefreq: 'weekly',
             priority: 0.7
           },
-          '/tags/*': {
+          '/label/*': {
             changefreq: 'weekly',
             priority: 0.5
           },
-          '/tags/khalifah': {
+          '/label/khalifah': {
             changefreq: 'daily',
             priority: 0.5
           },
