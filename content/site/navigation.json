@@ -1,0 +1,20 @@
+{
+  "headerNavigation": [
+    {
+      "name": "Halaman Depan",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "Tautan",
+      "link": "/tautan",
+      "external": false
+    }
+  ],
+  "footerNavigation": [{
+      "name": "Latest Posts",
+      "link": "/",
+      "external" : false
+    }
+  ]
+}
