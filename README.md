@@ -1,11 +1,10 @@
 <div align="center">
 
-<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
+<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">-</a>
 
+<a href="https://khalifah.xyz" title="Khalifah.xyz" target="_blank">
   <img src="https://jammeryhq.com/jammeryhq.png" width="128" />
-  
 </a>
-
 <p>
 Fast-track your JAMstack development & learning
 </p>
