@@ -151,8 +151,16 @@ export default {
       title: this.$page.blog.title,
       meta: [
         {
+          name: "title",
+          value: this.$page.blog.title
+        },
+        {
           name: "description",
           value: this.$page.blog.excerpt
+        },
+        {
+          name: "keywords",
+          value: this.$page.blog.tags.map((it)=>it.title).join(",")
         }
       ],
       bodyAttrs: {

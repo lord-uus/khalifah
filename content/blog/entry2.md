@@ -1,6 +1,6 @@
 ---
 title: Khalifah Sekarang
-tags: khalifah, khalifah islam, khalifah ahmadiyah, islam, ahmadiyah, mirza masroor ahmad, khalifah sekarang
+tags: khalifah, mirza masroor ahmad, khalifah sekarang
 category: Religion
 excerpt: Khalifah sekarang haruslah memiliki kriteria yang sesuai dengan sabda Rasulullah saw. berkenaan dengan kurun zaman periode Islam. Hadits yang diriwayatkan oleh imam Ahmad adalah sebagai berikut
 created: 2021-01-25

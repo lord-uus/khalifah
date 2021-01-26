@@ -1,6 +1,6 @@
 ---
 title: Khalifah
-tags: khalifah, khalifah islam, khalifah ahmadiyah, islam, ahmadiyah, mirza masroor ahmad, khalifah sekarang
+tags: khalifah, khalifah islam, khalifah ahmadiyah, ahmadiyah, mirza masroor ahmad
 category: Religion
 excerpt: Khalifah makna dasarnya adalah penerus atau pengganti. Khalifah dikalangan umat Islam dikenal sebagai penerus Yang Mulia Baginda Muhammad Rasulullah saw..
 created: 2021-01-25

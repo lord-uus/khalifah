@@ -1,8 +1,8 @@
 ---
 title: Bagaimana komunikasi dengan khalifah?
-tags: khalifah, khalifah islam, khalifah ahmadiyah, islam, ahmadiyah, mirza masroor ahmad, khalifah sekarang
+tags: khalifah, khalifah islam, khalifah ahmadiyah
 category: Religion
-excerpt: 
+excerpt: Yang Mulia Khalifah menerima ribuan surat setiap hari dari Muslim Ahmadi di seluruh dunia, meminta bimbingan dan doanya. Selain menanggapi semua surat semacam itu, Yang Mulia bertemu dengan setiap anggota Jemaat setiap hari.
 created: 2021-01-26
 image: ./images/alvaro-serrano-hjwKMkehBco-unsplash.jpg
 image_caption: Photo by Alvaro Serrano

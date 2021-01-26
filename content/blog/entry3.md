@@ -1,6 +1,6 @@
 ---
 title: Pidato Bersejarah Khalifah Di Capitol Hill
-tags: khalifah, khalifah islam, khalifah ahmadiyah, islam, ahmadiyah, mirza masroor ahmad, khalifah sekarang, pidato khalifah, khalifah di amerika
+tags: khalifah, mirza masroor ahmad, pidato khalifah
 category: Religion
 excerpt: Khalifah yang kelima dari Jemaat Ahmadiyah pada tanggal 27 Juni 2012 diterima di Capitol Hill, Washington DC dan berpidato disana. Judul pidato yang disampaikan adalah "Jalan Menuju Perdamaian - Hubungan yang Adil antar Bangsa".
 created: 2021-01-26

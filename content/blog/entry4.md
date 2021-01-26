@@ -1,6 +1,6 @@
 ---
 title: Siapakah Khalifah Sekarang?
-tags: khalifah, khalifah islam, khalifah ahmadiyah, islam, ahmadiyah, mirza masroor ahmad, khalifah sekarang
+tags: khalifah islam, mirza masroor ahmad, khalifah sekarang
 category: Religion
 excerpt: Khalifah pada masa sekarang adalah Yang Mulia Mirza Masroor Ahmad. Beliau atba. (ayadahullahu ta'ala binashrihil 'aziz) adalah Khalifah kelima dari Jemaat Muslim Ahmadiyah.
 created: 2021-01-26
