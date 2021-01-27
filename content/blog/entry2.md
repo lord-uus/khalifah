@@ -36,4 +36,8 @@ Pada masa keenam merupakan sebuah masa yang tidak dapat dijelaskan. Ada pendapat
 Jadi dengan membaca penjelasan diatas kita dapat memiliki kesimpulan sederhana bahwa:
 (1) [Khalifah sekarang](/post/khalifah-sekarang) ini melanjutkan jejak kenabian Nabi Isa as.
 (2) Khalifah sekarang ini merupakan kekhalifahan yang berjalan secara satu masa dengan negara-negara Islam 
-(3) Khalifah sekarang ini tidak lain adalah sosok yang Allah swt. sendiri pilih melalui kedatangan Nabi Isa as. akhir zaman dan bukan sosok yang dipilih oleh manusia melalui forum
+(3) Khalifah sekarang ini tidak lain adalah sosok yang Allah swt. sendiri pilih melalui kedatangan Nabi Isa as. akhir zaman dan bukan sosok yang dipilih oleh manusia melalui forum.
+
+Lihat juga:
+1. [ahmadiyah.id](https://ahmadiyah.id) 
+2. [alislam.org](https://alislam.org) 

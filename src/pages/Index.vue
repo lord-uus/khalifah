@@ -58,7 +58,17 @@ import Pagination from "~/components/Pagination.vue";
 
 export default {
   metaInfo: {
-    title: "Apa Itu Khalifah"
+    title: "Apa Itu Khalifah",
+    meta: [
+      {
+        name: "description",
+        content: "Apa itu khalifah? Khalifah adalah penerus atau pengganti. Khalifah dikalangan umat Islam dikenal sebagai penerus Yang Mulia Baginda Muhammad Rasulullah saw.. Pada masa ini sebagian umat Islam menantikan sosok khalifah sedangkan disisi lain khalifah yang ditunggu tengah mengerjakan tugasnya"
+      },
+      {
+        name: "keywords",
+        content: "khalifah, khalifah islam, apa itu khalifah, arti khalifah, makna khalifah"
+      }
+    ]
   },
   components: {
     ListItem,

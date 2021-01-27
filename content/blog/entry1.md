@@ -25,3 +25,7 @@ Khalifah merupakan pilihan Allah swt. yang mana dengan perantaraan manusia, soso
 Selain itu, kami juga menyusun beberapa tautan berkenaan dengan khalifah yang pernah ada pada era sepeninggal Yang Mulia Baginda Muhammad Rasulullah saw.. khalifah Abu Bakar, khalifah Umar bin Khattab, khalifah Utsman bin Affan dan khalifah Ali bin Abi Thalib merupakan khulafaur-rasyidin yang telah berjuang menegakkan Islam pada zamannya.
 
 Dengan mengetahui perbedaan bentuk kekhalifahan pada zaman sepeninggal Rasulullah saw. dan kebutuhan pada zaman ini, maka gambaran khalifah sejati pada era ini akan nampak jelas kepada kita.
+
+Lihat juga:
+1. [ahmadiyah.id](https://ahmadiyah.id) 
+2. [alislam.org](https://alislam.org) 

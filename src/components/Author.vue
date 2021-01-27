@@ -5,6 +5,7 @@
         <div class="md:flex p-6 pl-0 self-center">
           <g-image
             :src="author.image"
+            :alt="author.name"
             class="h-16 w-16 md:h-24 md:w-24 mx-auto md:mx-0 md:mr-6 rounded-full bg-gray-200"
           ></g-image>
 

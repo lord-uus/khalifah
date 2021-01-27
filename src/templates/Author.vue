@@ -6,6 +6,7 @@
           <div class="items-center mx-auto p-0">
               <g-image
                 :src="$page.author.image"
+                :alt="$page.author.name"
                 width="100"
                 height="100"
                 class="h-32 w-32 rounded-full bg-gray-600 border-6 border-gray-800 self-center"
@@ -63,6 +64,7 @@
   query($id: ID!, $page:Int) {
     author(id: $id) {
       name
+      path
       bio
       image
       facebook
@@ -120,7 +122,13 @@ export default {
       title: this.$page.author.name,
       bodyAttrs: {
         class: "bg-white"
-      }
+      },
+      meta: [
+        {
+          name: "description",
+          content: this.$page.author.bio
+        }
+      ]
     };
   }
 };

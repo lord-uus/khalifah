@@ -47,4 +47,8 @@ Yang Mulia Khalifah telah melakukan perjalanan global demi mempromosikan dan mem
 
 Yang Mulia Khalifah menaruh perhatian khusus dalam meringankan penderitaan negara-negara berkembang, yaitu dengan membantu meningkatkan pertanian mereka dan memfasilitasi akses ke makanan, air bersih, dan listrik. Beliau atba. mengawasi pekerjaan International Association of Ahmadi Architects and Engineers (IAAAE), sebuah organisasi yang diberi pengarahan dengan memimpin berbagai proyek kemanusiaan dan pembangunan, di daerah terpencil di dunia. Cakupan dan keahlian organisasi ini telah berkembang pesat di bawah kepemimpinannya. Demikian pula, Yang Mulia mendukung pekerjaan "Humanity First", sebuah organisasi amal pembangunan dan bantuan bencana nirlaba internasional dan organisasi sejenis lainnya.
 
-Di bawah kepemimpinan Yang Mulia Khalifah, Jamaah Muslim Ahmadiyah telah membangun sejumlah sekolah dan rumah sakit yang menyediakan fasilitas kelas atas di berbagai belahan dunia yang terpencil. Melalui berbagai rencana Jemaat Muslim Ahmadiyah, Yang Mulia Khalifah telah mendanai biaya sekolah dan pendidikan banyak siswa yang kurang mampu di seluruh dunia, terlepas dari latar belakang agama mereka.
+Di bawah kepemimpinan Yang Mulia Khalifah, Jamaah Muslim Ahmadiyah telah membangun sejumlah sekolah dan rumah sakit yang menyediakan fasilitas kelas atas di berbagai belahan dunia yang terpencil. Melalui berbagai rencana Jemaat Muslim Ahmadiyah, Yang Mulia Khalifah telah mendanai biaya sekolah dan pendidikan banyak siswa yang kurang mampu di seluruh dunia, terlepas dari latar belakang agama mereka. [Disadur dari khalifatulmasih.org](https://www.khalifatulmasih.org/)
+
+Lihat juga:
+1. [ahmadiyah.id](https://ahmadiyah.id) 
+2. [alislam.org](https://alislam.org) 

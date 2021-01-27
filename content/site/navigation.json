@@ -12,9 +12,9 @@
     }
   ],
   "footerNavigation": [{
-      "name": "Latest Posts",
-      "link": "/",
-      "external" : false
+      "name": "AhmadiyahID",
+      "link": "https://ahmadiyah.id",
+      "external" : true
     }
   ]
 }

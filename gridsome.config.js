@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  siteName: 'Khalifah',
+  siteName: 'Khalifah XYZ',
   siteUrl: 'https://khalifah.xyz',
   icon: './src/ikon.png',
 

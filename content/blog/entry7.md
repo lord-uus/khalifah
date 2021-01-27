@@ -17,3 +17,8 @@ Sejak 1977 hingga 1985, Yang Mulia Khalifah melayani di Ghana, terlibat dalam pr
 Yang Mulia Khalifah tinggal di London, Inggris beserta istrinya, Amtul Sabooh Ahmad. Yang Mulia memiliki dua anak dan lima cucu.
 
 Hobinya termasuk berkebun, membaca, fotografi dan berjalan.
+[Disadur dari khalifatulmasih.org](https://www.khalifatulmasih.org/)
+
+Lihat juga:
+1. [ahmadiyah.id](https://ahmadiyah.id) 
+2. [alislam.org](https://alislam.org) 

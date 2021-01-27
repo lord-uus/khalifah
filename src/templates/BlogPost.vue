@@ -11,10 +11,10 @@
           >{{ $page.blog.category.title }}</g-link>
         </span>
       </p>
-      <h1 class="text-4xl font-bold">{{ $page.blog.title}}</h1>
+      <h1 class="text-4xl font-bold">{{ $page.blog.title }}</h1>
     </section>
     <section class="post-image mx-auto w-full xl:px-20">
-      <g-image :src="$page.blog.image"></g-image>
+      <g-image :src="$page.blog.image" :alt="$page.blog.title"></g-image>
     </section>
 
     <section class="post-content container mx-auto bg-white relative p-10 font-serif text-gray-700">
@@ -151,16 +151,16 @@ export default {
       title: this.$page.blog.title,
       meta: [
         {
-          name: "title",
-          value: this.$page.blog.title
-        },
-        {
           name: "description",
-          value: this.$page.blog.excerpt
+          content: this.$page.blog.excerpt
         },
         {
           name: "keywords",
-          value: this.$page.blog.tags.map((it)=>it.title).join(",")
+          content: this.$page.blog.tags.map((it)=>it.title).join(",")
+        },
+        {
+          name: "author",
+          content: this.$page.blog.author.name
         }
       ],
       bodyAttrs: {

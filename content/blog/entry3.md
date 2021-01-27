@@ -55,4 +55,8 @@ Beliau melanjutkan, “Jadi inilah ajaran Islam yang benderang bahwa orang-orang
 
 Khalifah berkata bahwa negara-negara kaya harus berusaha keras untuk membantu negara-negara berkembang; namun mereka tidak boleh melakukannya demi memenuhi kepentingan pribadi atau nasional. Sebaliknya mereka harus bertindak dengan keinginan melayani umat manusia serta dengan niatan untuk menyudahi kegelisahan dan kecemasan bagi mereka yang membutuhkan.
 
-Khalifah Hadhrat Mirza Masroor Ahmad menutup dengan pesan menyerukan perdamaian. “Amerika Serikat, sebagai kekuatan terbesar di dunia, harus memainkan perannya dalam bertindak dengan keadilan sejati dan dengan niat baik seperti yang telah saya jelaskan. Jika itu terjadi maka dunia akan selalu mengingat dengan penuh kekaguman atas usaha besar Anda. Ini adalah doa saya agar harapan ini menjadi kenyataan." [Sumber](https://www.khalifatulmasih.org/press-releases/usa-capitol-hill-address-2012/)
+Khalifah Hadhrat Mirza Masroor Ahmad menutup dengan pesan menyerukan perdamaian. “Amerika Serikat, sebagai kekuatan terbesar di dunia, harus memainkan perannya dalam bertindak dengan keadilan sejati dan dengan niat baik seperti yang telah saya jelaskan. Jika itu terjadi maka dunia akan selalu mengingat dengan penuh kekaguman atas usaha besar Anda. Ini adalah doa saya agar harapan ini menjadi kenyataan." [Disadur dari khalifatulmasih.org](https://www.khalifatulmasih.org/)
+
+Lihat juga:
+1. [ahmadiyah.id](https://ahmadiyah.id) 
+2. [alislam.org](https://alislam.org) 
